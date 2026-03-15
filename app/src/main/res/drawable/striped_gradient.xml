@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Stripe 1 -->
+    <item android:top="0dp" android:bottom="400dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#4DB8FF" />
+        </shape>
+    </item>
+
+    <!-- Stripe 2 -->
+    <item android:top="80dp" android:bottom="320dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#3399FF" />
+        </shape>
+    </item>
+
+    <!-- Stripe 3 -->
+    <item android:top="160dp" android:bottom="240dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#1A75FF" />
+        </shape>
+    </item>
+
+    <!-- Stripe 4 -->
+    <item android:top="240dp" android:bottom="160dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#0052CC" />
+        </shape>
+    </item>
+
+    <!-- Stripe 5 -->
+    <item android:top="320dp" android:bottom="80dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#003399" />
+        </shape>
+    </item>
+
+</layer-list>
