@@ -1,4 +1,4 @@
-# SynQ - Real-Time Chat Application
+# SynQ - Android Chat Application
 
 SynQ is a streamlined Android chat application built with Java and Firebase. It focuses on core real-time communication between users with a secure authentication system.
 the Project is created to implement the learnings of android development and object oriented programming through java.
