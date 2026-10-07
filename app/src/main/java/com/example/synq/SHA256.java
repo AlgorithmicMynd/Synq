@@ -74,8 +74,6 @@ return rightRotate(x, 6) ^ rightRotate(x, 11) ^ rightRotate(x, 25);
 
     // SHA-256 Main Hashing Algorithm
     public static String sha256(String input) {
-        Scanner sc=new Scanner(System.in);
-        String input=sc.nextLine();
         byte[] message = padMessage(input.getBytes(StandardCharsets.UTF_8));
         int[] hashValues = Arrays.copyOf(H, H.length);
 int[] words = new int[64];
